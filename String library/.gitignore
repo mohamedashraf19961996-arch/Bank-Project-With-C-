@@ -1,0 +1,21 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore build folders
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Ignore compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+
+# Ignore user-specific files
+*.vcxproj.user
