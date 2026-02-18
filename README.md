@@ -49,7 +49,7 @@ Using Visual Studio (recommended):
 2. Build the solution (Ctrl+Shift+B).
 3. Run (F5) or start without debugging (Ctrl+F5).
 4.Enter credentials at the login screen and navigate the menus.
-5.User Name `Admin` and Password `1234` are hardcoded for testing.
+5.User Name `Admin` and Password `1234` are Recorded as `Admin Data Login` for testing.
 6.Clients Data is Recorded in Text File `Clients.txt` in the project directory. 
 7.Users Login Information is Recorded in Text File `Users.txt` in the project directory.
 7. You can add clients by using the `Add Client` option in the main menu after logging in.
